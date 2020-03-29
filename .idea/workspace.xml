@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19118c6e-7a57-43e4-b8d4-a5867611e702" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YjtCwCAmRmpmCZ38yw934rYosn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="yaml" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+  </component>
+  <component name="RunManager" selected="Dart Command Line App.class_and_project.dart">
+    <configuration name="class_and_project.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/chap1/class_and_project.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/chap1" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hello_world.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/chap1/hello_world.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/chap1" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Dart Command Line App.class_and_project.dart" />
+        <item itemvalue="Dart Command Line App.hello_world.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19118c6e-7a57-43e4-b8d4-a5867611e702" name="Default Changelist" comment="" />
+      <created>1583467706729</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583467706729</updated>
+      <workItem from="1583467710466" duration="6052000" />
+      <workItem from="1583646678909" duration="8000" />
+      <workItem from="1583892114384" duration="7953000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="168" key="GridCell.Tab.0.bottom" timestamp="1583919239967">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="168" key="GridCell.Tab.0.bottom/0.23.1440.877/0.-1129.2048.1129@0.23.1440.877" timestamp="1583919239967" />
+    <state width="1398" height="168" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1583911461596" />
+    <state width="1398" height="168" key="GridCell.Tab.0.center" timestamp="1583919239966">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="168" key="GridCell.Tab.0.center/0.23.1440.877/0.-1129.2048.1129@0.23.1440.877" timestamp="1583919239966" />
+    <state width="1398" height="168" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1583911461595" />
+    <state width="1398" height="168" key="GridCell.Tab.0.left" timestamp="1583919239966">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="168" key="GridCell.Tab.0.left/0.23.1440.877/0.-1129.2048.1129@0.23.1440.877" timestamp="1583919239966" />
+    <state width="1398" height="168" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1583911461595" />
+    <state width="1398" height="168" key="GridCell.Tab.0.right" timestamp="1583919239967">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="168" key="GridCell.Tab.0.right/0.23.1440.877/0.-1129.2048.1129@0.23.1440.877" timestamp="1583919239967" />
+    <state width="1398" height="168" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1583911461595" />
+    <state x="399" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1583892113962">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="399" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877/0.-1129.2048.1129@0.23.1440.877" timestamp="1583467712433" />
+    <state x="399" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1583892113962" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1583900422907">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877/0.-1129.2048.1129@0.23.1440.877" timestamp="1583481107074" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1583900422907" />
+  </component>
+</project>
